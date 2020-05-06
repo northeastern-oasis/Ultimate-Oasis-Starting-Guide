@@ -1,1 +1,1 @@
-﻿Team Formation---**Everything you need to know to help you form a successful team**
+﻿# Team Formation**Everything you need to know to help you form a successful team**
