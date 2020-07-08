@@ -1,4 +1,5 @@
 # Oasis Starting Guide
+![Oasis Logo](./oasis_logo.png)
 
 ## What is this?
 This is a guide for anyone interested in learning more about web development and tangential topics. It was created for participants of Oasis at Northeastern University, but all are welcome to benefit from and share it. As noted below, it is always a work in progress and we encourage additions to the resources we have curated here.
