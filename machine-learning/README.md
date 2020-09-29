@@ -1,1 +1,1 @@
-﻿# ﻿Machine Learning Development**All the resources and code you need to get started implementing machine learning models in your application**
+﻿# ﻿Machine Learning Development## Coming soon!

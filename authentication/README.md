@@ -1,1 +1,1 @@
-﻿# ﻿Authentication**All the resources you need to get started with authentication in your app**
+﻿# ﻿Authentication## Coming soon!

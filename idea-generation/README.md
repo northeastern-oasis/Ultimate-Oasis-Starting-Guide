@@ -1,1 +1,0 @@
-﻿# ﻿Idea Generation**All the resources you need to produce an idea for an exciting, useful, and feasable project**
